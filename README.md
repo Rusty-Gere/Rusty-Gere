@@ -5,20 +5,11 @@ This is my personal hub for sharing downloadable files, mostly zip archives of c
 
 (Current repos: Aliens Fireteam Elite custom profiles and more to come.)
 
-## Tip Me ☕
-If my work saves you time or brings some fun, consider tipping in crypto. Every bit helps fuel more creations!
+<details><summary><b>💰 Tip Me</b></summary>
 
-- **BTC**: Scan to send Bitcoin  
-  ![BTC QR](btc-qr.png)
+[Click for Crypto Options](https://rusty-gere.github.io/)
 
-- **ETH**: Scan to send Ethereum  
-  ![ETH QR](eth-qr.png)
-
-- **SOL**: Scan to send Solana  
-  ![SOL QR](sol-qr.png)
-
-- **USDC**: Scan to send USDC (on Ethereum)  
-  ![USDC QR](usdc-qr.png)
+</details>
 
 Thanks for the support! 🚀
 
